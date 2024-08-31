@@ -1,7 +1,7 @@
 ---
 title: MathJax and LaTeX
 author: Tao He
-date: 2023-10-14
+date: 2023X-10-14
 category: Jekyll
 layout: post
 mermaid: true
