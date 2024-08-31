@@ -1,3 +1,11 @@
+---
+title: 팬아트 컬렉션
+author: 우사기
+date: 2024-08-31
+category: Jekyll
+layout: post
+---
+
 # 일현장소 팬아트(fan art) 컬렉션
 일현장소 구독자 분들께 받은 팬아트 입니다. 정확한 정보는 알려 주시면 갱신 하도록 하겠습니다. 
 
@@ -8,6 +16,6 @@
 
 받은 날짜(추정)|팬아트 파일|작가님|작가님 정보
 -|-|-|-
-2020/06/26|[ilhyun.png](./images/fanart/ilhyun.png)|비공개|비공개
-2021/05/19|[1620809337294.png](./images/fanart/1620809337294.png)|비공개|비공개
-
+2020/06/26|[ilhyun.png](../images/fanart/ilhyun.png)|비공개|비공개
+2021/05/19|[1620809337294.png](../images/fanart/1620809337294.png)|비공개|비공개
+2021/09/16|[4e8a52e4d0c6f8cb30935b716ae3edbf.jpg](../images/fanart/4e8a52e4d0c6f8cb30935b716ae3edbf.jpg)|으아----악!|-
