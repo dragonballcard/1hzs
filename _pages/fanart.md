@@ -21,6 +21,9 @@ layout: post
 -|-|-|-
 2020/06/26|1만명 축하|[ilhyun.png](../../images/fanart/ilhyun.png)|비공개|비공개
 2021/05/19|-|[1620809337294.png](../../images/fanart/1620809337294.png)|비공개|-
+2021/06/13|우사기님 팬아트 1 [피콜로]|[b25c708b7dbff0272d2ad74f2aa1ba5a.jpg](../../images/fanart/b25c708b7dbff0272d2ad74f2aa1ba5a.jpg)|이광현|-
+2021/07/01|우사기님 팬아트 2 [프리저]|[7b6d2682e008d649a4482b32736ea1ab.jpg](../../images/fanart/7b6d2682e008d649a4482b32736ea1ab.jpg)|이광현|-
+2021/06/23|우사기님 팬아트 일현장소 포에버!!|[1b85ff9bdf3b64f57dc8e71c128cb10c.jpg](../../images/fanart/1b85ff9bdf3b64f57dc8e71c128cb10c.jpg)|kujokujo|-
 2021/06/29|우사기님 팬아트 쿠로노 사기|[7468a1494141e0fbadf9f25cd6b27667.jpg](../../images/fanart/7468a1494141e0fbadf9f25cd6b27667.jpg)|kujokujo|-
 2021/07/01|우사기님 팬아트 3 [셀]|[e291034f7b7d69464bfb9bd70aef0849.jpg](../../images/fanart/e291034f7b7d69464bfb9bd70aef0849.jpg)|이광현|-
 2021/07/04|일현장소님 팬아트? 마인부우|[c9fb74bed699fb0af5dc942eb6fa36f3.png](../../images/fanart/c9fb74bed699fb0af5dc942eb6fa36f3.png)|ㅇㅇㅇㅇㅇㅇㅇ|-
