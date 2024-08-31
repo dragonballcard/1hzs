@@ -1,8 +1,8 @@
 ---
 title: About others
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+author: 우사기
+date: 2024-08-31
+category: 1hzs
 layout: post
 ---
 
