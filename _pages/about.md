@@ -2,7 +2,7 @@
 title: About
 author: 우사기
 date: 2024-08-31
-category: Jekyll
+category: 1hzs
 layout: post
 ---
 
