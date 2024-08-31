@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            일현장소 컬렉션 북
+longtitle:        유튜버 일현장소 우사기의 컬렉션 북
+author:           우사기
+email:            tokistudio@outlook.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://dragonballcard.github.io'
+baseurl:          '/1hzs'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
