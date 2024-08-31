@@ -1,7 +1,7 @@
 ---
 title: About
 author: 우사기
-date: 20224-08-31
+date: 2024-08-31
 category: Jekyll
 layout: post
 ---
