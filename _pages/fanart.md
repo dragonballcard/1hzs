@@ -20,7 +20,9 @@ layout: post
 받은 날짜(추정)|타이틀|팬아트 파일|작가님|작가님 정보
 -|-|-|-
 2020/06/26|1만명 축하|[ilhyun.png](../../images/fanart/ilhyun.png)|비공개|비공개
+2021/05/15|초사이어인 우사기님 팬픽입니다.|[b1e43209eaa17270c3c5bde4d7cbacbb.png](../../images/fanart/b1e43209eaa17270c3c5bde4d7cbacbb.png)|공신Hero|-
 2021/05/19|-|[1620809337294.png](../../images/fanart/1620809337294.png)|비공개|-
+2021/05/28|우사기님 팬아트를 그려봤습니다|[5912b8d3b356d96baa4ac37fcdd2ceaa.jpg](../../images/fanart/5912b8d3b356d96baa4ac37fcdd2ceaa.jpg)|바카랑|[www](https://blog.naver.com/hyunjin0905)
 2021/06/13|우사기님 팬아트 1 [피콜로]|[b25c708b7dbff0272d2ad74f2aa1ba5a.jpg](../../images/fanart/b25c708b7dbff0272d2ad74f2aa1ba5a.jpg)|이광현|-
 2021/07/01|우사기님 팬아트 2 [프리저]|[7b6d2682e008d649a4482b32736ea1ab.jpg](../../images/fanart/7b6d2682e008d649a4482b32736ea1ab.jpg)|이광현|-
 2021/06/23|우사기님 팬아트 일현장소 포에버!!|[1b85ff9bdf3b64f57dc8e71c128cb10c.jpg](../../images/fanart/1b85ff9bdf3b64f57dc8e71c128cb10c.jpg)|kujokujo|-
