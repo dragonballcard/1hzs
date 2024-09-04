@@ -22,17 +22,17 @@ layout: post
 받은 날짜(추정)|타이틀(파일)|작가님|작가님 정보
 -|-|-|-
 2020/06/26|[1만명 축하](../../images/fanart/ilhyun.png){:target="_blank"}|비공개|비공개
-2021/05/15|[초사이어인 우사기님 팬픽입니다.](../../images/fanart/b1e43209eaa17270c3c5bde4d7cbacbb.png)|공신Hero|-
-2021/05/19|[-](../../images/fanart/1620809337294.png)|비공개|-
-2021/05/19|[-](../../images/fanart/C3AFACDD-436D-4C44-85EC-6CA1A07B3358.JPG)|서티브와이저|-
-2021/05/28|[우사기님 팬아트를 그려봤습니다](../../images/fanart/5912b8d3b356d96baa4ac37fcdd2ceaa.jpg)|바카랑|[www](https://blog.naver.com/hyunjin0905){:target="_blank"}
-2021/06/13|[우사기님 팬아트 1 (피콜로)](../../images/fanart/b25c708b7dbff0272d2ad74f2aa1ba5a.jpg)|이광현|-
-2021/06/21|[우사기님 팬아트 2 (프리저)](../../images/fanart/7b6d2682e008d649a4482b32736ea1ab.jpg)|이광현|-
-2021/06/23|[우사기님 팬아트 일현장소 포에버!!](../../images/fanart/1b85ff9bdf3b64f57dc8e71c128cb10c.jpg)|kujokujo|-
-2021/06/29|[우사기님 팬아트 쿠로노 사기](../../images/fanart/7468a1494141e0fbadf9f25cd6b27667.jpg)|kujokujo|-
-2021/07/01|[우사기님 팬아트 3 (셀)](../../images/fanart/e291034f7b7d69464bfb9bd70aef0849.jpg)|이광현|-
-2021/07/04|[일현장소님 팬아트? 마인부](../../images/fanart/c9fb74bed699fb0af5dc942eb6fa36f3.png)|ㅇㅇㅇㅇㅇㅇㅇ|-
-2021/07/24|[우사기님 팬아트 입니다~](../../images/fanart/f73f5498c56cd324a2af64b27358b809.png)|Alex|-
-2021/09/16|[-](../../images/fanart/4e8a52e4d0c6f8cb30935b716ae3edbf.jpg)|으아----악!|-
-2021/10/09|[우사기님 팬아트 4 (지렌)](../../images/fanart/1a79ef664c6ff5a7c994133cb1a487de.jpg)|이광현|-
-2021/10/12|[우사기님 토끼 팬아트](../../images/fanart/e0e051586d7c9a27ad35473853e71014.gif)|계정잃은사람|-
+2021/05/15|[초사이어인 우사기님 팬픽입니다.](../../images/fanart/b1e43209eaa17270c3c5bde4d7cbacbb.png){:target="_blank"}|공신Hero|-
+2021/05/19|[-](../../images/fanart/1620809337294.png){:target="_blank"}|비공개|-
+2021/05/19|[-](../../images/fanart/C3AFACDD-436D-4C44-85EC-6CA1A07B3358.JPG){:target="_blank"}|서티브와이저|-
+2021/05/28|[우사기님 팬아트를 그려봤습니다](../../images/fanart/5912b8d3b356d96baa4ac37fcdd2ceaa.jpg){:target="_blank"}|바카랑|[www](https://blog.naver.com/hyunjin0905){:target="_blank"}
+2021/06/13|[우사기님 팬아트 1 (피콜로)](../../images/fanart/b25c708b7dbff0272d2ad74f2aa1ba5a.jpg){:target="_blank"}|이광현|-
+2021/06/21|[우사기님 팬아트 2 (프리저)](../../images/fanart/7b6d2682e008d649a4482b32736ea1ab.jpg){:target="_blank"}|이광현|-
+2021/06/23|[우사기님 팬아트 일현장소 포에버!!](../../images/fanart/1b85ff9bdf3b64f57dc8e71c128cb10c.jpg){:target="_blank"}|kujokujo|-
+2021/06/29|[우사기님 팬아트 쿠로노 사기](../../images/fanart/7468a1494141e0fbadf9f25cd6b27667.jpg){:target="_blank"}|kujokujo|-
+2021/07/01|[우사기님 팬아트 3 (셀)](../../images/fanart/e291034f7b7d69464bfb9bd70aef0849.jpg){:target="_blank"}|이광현|-
+2021/07/04|[일현장소님 팬아트? 마인부](../../images/fanart/c9fb74bed699fb0af5dc942eb6fa36f3.png){:target="_blank"}|ㅇㅇㅇㅇㅇㅇㅇ|-
+2021/07/24|[우사기님 팬아트 입니다~](../../images/fanart/f73f5498c56cd324a2af64b27358b809.png){:target="_blank"}|Alex|-
+2021/09/16|[-](../../images/fanart/4e8a52e4d0c6f8cb30935b716ae3edbf.jpg){:target="_blank"}|으아----악!|-
+2021/10/09|[우사기님 팬아트 4 (지렌)](../../images/fanart/1a79ef664c6ff5a7c994133cb1a487de.jpg){:target="_blank"}|이광현|-
+2021/10/12|[우사기님 토끼 팬아트](../../images/fanart/e0e051586d7c9a27ad35473853e71014.gif){:target="_blank"}|계정잃은사람|-
