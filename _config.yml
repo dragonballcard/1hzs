@@ -53,7 +53,7 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  others:
+  collection:
     output: true
     permalink: /:collection/:path/
 
